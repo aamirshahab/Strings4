@@ -1,0 +1,2 @@
+# Strings4
+strcpy()
